@@ -1,0 +1,8 @@
+prefix=/home/user/Desktop/AMR-group-7/AMR7_ws/devel
+
+Name: wk2
+Description: Description of wk2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user/Desktop/AMR-group-7/AMR7_ws/devel/lib 
+Requires: 
