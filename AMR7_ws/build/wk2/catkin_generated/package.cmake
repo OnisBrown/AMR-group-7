@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "wk2")
 set(wk2_VERSION "0.0.0")
-set(wk2_MAINTAINER "user <user@todo.todo>")
+set(wk2_MAINTAINER "OnisBrown <user@todo.todo>")
 set(wk2_PACKAGE_FORMAT "2")
 set(wk2_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
 set(wk2_BUILD_EXPORT_DEPENDS "roscpp" "rospy" "std_msgs")
