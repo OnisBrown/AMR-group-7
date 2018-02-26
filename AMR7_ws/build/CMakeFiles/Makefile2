@@ -588,6 +588,36 @@ clean: wk2/CMakeFiles/std_msgs_generate_messages_py.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Directory level rules for directory wk3
+
+# Convenience name for "all" pass in the directory.
+wk3/all:
+.PHONY : wk3/all
+
+# Convenience name for "clean" pass in the directory.
+wk3/clean:
+.PHONY : wk3/clean
+
+# Convenience name for "preinstall" pass in the directory.
+wk3/preinstall:
+.PHONY : wk3/preinstall
+
+#=============================================================================
+# Directory level rules for directory wk4
+
+# Convenience name for "all" pass in the directory.
+wk4/all:
+.PHONY : wk4/all
+
+# Convenience name for "clean" pass in the directory.
+wk4/clean:
+.PHONY : wk4/clean
+
+# Convenience name for "preinstall" pass in the directory.
+wk4/preinstall:
+.PHONY : wk4/preinstall
+
+#=============================================================================
 # Special targets to cleanup operation of make.
 
 # Special rule to run CMake to check the build system integrity.

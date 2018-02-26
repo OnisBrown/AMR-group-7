@@ -118,6 +118,8 @@ IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   INCLUDE("/home/user/Desktop/AMR-group-7/AMR7_ws/build/gtest/cmake_install.cmake")
   INCLUDE("/home/user/Desktop/AMR-group-7/AMR7_ws/build/wk2/cmake_install.cmake")
+  INCLUDE("/home/user/Desktop/AMR-group-7/AMR7_ws/build/wk3/cmake_install.cmake")
+  INCLUDE("/home/user/Desktop/AMR-group-7/AMR7_ws/build/wk4/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 

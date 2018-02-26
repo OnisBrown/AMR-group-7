@@ -318,6 +318,18 @@ wk2_BINARY_DIR:STATIC=/home/user/Desktop/AMR-group-7/AMR7_ws/build/wk2
 //Value Computed by CMake
 wk2_SOURCE_DIR:STATIC=/home/user/Desktop/AMR-group-7/AMR7_ws/src/wk2
 
+//Value Computed by CMake
+wk3_BINARY_DIR:STATIC=/home/user/Desktop/AMR-group-7/AMR7_ws/build/wk3
+
+//Value Computed by CMake
+wk3_SOURCE_DIR:STATIC=/home/user/Desktop/AMR-group-7/AMR7_ws/src/wk3
+
+//Value Computed by CMake
+wk4_BINARY_DIR:STATIC=/home/user/Desktop/AMR-group-7/AMR7_ws/build/wk4
+
+//Value Computed by CMake
+wk4_SOURCE_DIR:STATIC=/home/user/Desktop/AMR-group-7/AMR7_ws/src/wk4
+
 //The directory containing a CMake configuration file for xmlrpcpp.
 xmlrpcpp_DIR:PATH=/opt/ros/indigo/share/xmlrpcpp/cmake
 
@@ -423,7 +435,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=3
+CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=5
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

@@ -15,9 +15,17 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "catkin_generated/order_packages.cmake"
   "wk2/catkin_generated/ordered_paths.cmake"
   "wk2/catkin_generated/package.cmake"
+  "wk3/catkin_generated/ordered_paths.cmake"
+  "wk3/catkin_generated/package.cmake"
+  "wk4/catkin_generated/ordered_paths.cmake"
+  "wk4/catkin_generated/package.cmake"
   "/home/user/Desktop/AMR-group-7/AMR7_ws/src/CMakeLists.txt"
   "/home/user/Desktop/AMR-group-7/AMR7_ws/src/wk2/CMakeLists.txt"
   "/home/user/Desktop/AMR-group-7/AMR7_ws/src/wk2/package.xml"
+  "/home/user/Desktop/AMR-group-7/AMR7_ws/src/wk3/CMakeLists.txt"
+  "/home/user/Desktop/AMR-group-7/AMR7_ws/src/wk3/package.xml"
+  "/home/user/Desktop/AMR-group-7/AMR7_ws/src/wk4/CMakeLists.txt"
+  "/home/user/Desktop/AMR-group-7/AMR7_ws/src/wk4/package.xml"
   "/opt/ros/indigo/share/catkin/cmake/../package.xml"
   "/opt/ros/indigo/share/catkin/cmake/all.cmake"
   "/opt/ros/indigo/share/catkin/cmake/assert.cmake"
@@ -147,6 +155,8 @@ SET(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "wk2/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "wk3/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "wk4/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:

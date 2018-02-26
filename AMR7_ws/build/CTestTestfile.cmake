@@ -6,3 +6,5 @@
 # testing this directory and lists subdirectories to be tested as well.
 SUBDIRS(gtest)
 SUBDIRS(wk2)
+SUBDIRS(wk3)
+SUBDIRS(wk4)
