@@ -5,6 +5,7 @@
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
 SUBDIRS(gtest)
+SUBDIRS(assignment)
 SUBDIRS(wk2)
 SUBDIRS(wk3)
 SUBDIRS(wk4)

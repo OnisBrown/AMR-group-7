@@ -1,2 +1,2 @@
-wk2:wk3:wk4
+assignment:wk2:wk3:wk4
 -DCATKIN_DEVEL_PREFIX=/home/user/Desktop/AMR-group-7/AMR7_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/Desktop/AMR-group-7/AMR7_ws/install -G Unix Makefiles

@@ -2,6 +2,7 @@
 
 #simulator
 roslaunch uol_turtlebot_simulator labc.launch
+roslaunch uol_turtlebot_simulator object-search-training.launch
 
 #real robot
 ssh computing@10.82.0.67

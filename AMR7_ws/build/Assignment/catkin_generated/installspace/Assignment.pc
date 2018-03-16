@@ -1,0 +1,8 @@
+prefix=/home/user/Desktop/AMR-group-7/AMR7_ws/install
+
+Name: Assignment
+Description: Description of Assignment
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user/Desktop/AMR-group-7/AMR7_ws/install/lib 
+Requires: 
