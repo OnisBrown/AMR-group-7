@@ -1,4 +1,6 @@
 # AMR-group-7
+https://github.com/LCAS/teaching/wiki/CMP3103M
+
 
 #simulator
 roslaunch uol_turtlebot_simulator labc.launch
