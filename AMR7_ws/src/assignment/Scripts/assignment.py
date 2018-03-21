@@ -99,7 +99,6 @@ class Searcher:
 			if not self.bump:
 				self.mover(data[1], image)
 			else:
-				os.system('clear')
 				self.found[data[3]] = True
 				self.flist = self.flist + data[2] + ", "
 			self.display(image)
