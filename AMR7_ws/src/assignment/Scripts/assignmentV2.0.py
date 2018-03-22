@@ -336,10 +336,6 @@ class Searcher:
 			if err > 0.5:
 				self.t.angular.z = 1
 				self.k_pub.publish(self.t)
-			else:
-				self.t.angular.z = dire[randint(0, 1)]
-				self.k_pub.publish(self.t)
-		rospy.sleep(0.5)
 
 
 def myhook():
